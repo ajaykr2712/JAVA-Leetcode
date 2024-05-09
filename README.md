@@ -20,6 +20,9 @@ Contributions are welcome! If you'd like to contribute:
 ## Lets Connect
 If you have any questions, suggestions, or just want to say hi, feel free to reach out to me. Happy coding! 😊
 
+**Disclaimer**: Solutions provided here are for learning and reference purposes only. Try to solve the problems yourself before looking at the solutions.
+
+
 
 
 
